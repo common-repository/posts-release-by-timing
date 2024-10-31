@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Posts Release By Timing 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-31 21:19:17+00:00\n"
+"PO-Revision-Date: 2013-01-31 21:19:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Chen Lei <chenleicncl@gmail.com>\n"
+"Language-Team: Chen Lei <chenleicncl@gmail.com>\n"
+
+#: posts-release-by-timing.php:45
+msgid "PostsReleaseByTiming"
+msgstr "多文章定时发布"
+
+#: PRBT-options.php:20
+msgid "Posts Release By Timing Options"
+msgstr "文章定时发布配置"
+
+#: PRBT-options.php:21
+msgid "Attention:before you start option it,must be sure that you have been save will release posts as \"draft\" posts and install \"WP Missed Schedule Fix Failed Future Posts\" Plugin(which decide the timing posts release time and amounts),if it not be installed,start to install it now! Otherwise your timing posts will publish failed!"
+msgstr "注意：在你开始设置之前，请确定你已经将待发布文章保存为“草稿”而且已经安装了“WP Missed Schedule Fix Failed Future Posts” 插件（这个插件决定定时文章展现的时间和数量)，如果没有安装这个插件，请现在去安装！否则您的定时文章将会发布失败"
+
+#: PRBT-options.php:24
+msgid "Category Name"
+msgstr "分类名称"
+
+#: PRBT-options.php:25
+msgid "Category ID"
+msgstr "分类ID"
+
+#: PRBT-options.php:26
+msgid "Future Posts"
+msgstr "定时文章（篇）"
+
+#: PRBT-options.php:27
+msgid "Draft Posts"
+msgstr "草稿文章（篇）"
+
+#: PRBT-options.php:28
+msgid "Last post timing date"
+msgstr "最后定时文章的时间"
+
+#: PRBT-options.php:45
+msgid "Start Timing Posts:"
+msgstr "开始设置定时文章："
+
+#: PRBT-options.php:46
+msgid "Category ID:"
+msgstr "分类ID："
+
+#: PRBT-options.php:47
+msgid "only One ID once"
+msgstr "每次填一个ID"
+
+#: PRBT-options.php:48
+msgid "Start time:"
+msgstr "开始发布时间："
+
+#: PRBT-options.php:49
+msgid "year"
+msgstr "年"
+
+#: PRBT-options.php:59
+msgid "month"
+msgstr "月"
+
+#: PRBT-options.php:60
+msgid "day"
+msgstr "日"
+
+#: PRBT-options.php:63
+msgid "Every time interval:"
+msgstr "每间隔时间："
+
+#: PRBT-options.php:64
+msgid "hours"
+msgstr "小时发布一次"
+
+#: PRBT-options.php:65
+msgid "Every time release quantity:"
+msgstr "每次更新数量："
+
+#: PRBT-options.php:66
+msgid "posts"
+msgstr "篇"
+
+#: PRBT-options.php:67
+msgid "Execution times:"
+msgstr "执行次数："
+
+#: PRBT-options.php:68
+msgid "times(frequency)"
+msgstr "次"
+
+#: PRBT-options.php:70
+#: PRBT-options.php:75
+msgid "submit"
+msgstr "提交"
+
+#: PRBT-options.php:72
+msgid "Reset posts status \"draft\" in which category ID were timing:"
+msgstr "将某个分类定时的文章重置为草稿"
+
+#: PRBT-options.php:73
+msgid "Reset category ID:"
+msgstr "需重置的分类ID"
